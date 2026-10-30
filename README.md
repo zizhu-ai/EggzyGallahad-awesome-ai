@@ -511,7 +511,6 @@ Legend:
 ### Dance AI Generator
 [https://danceaigenerator.com/](https://danceaigenerator.com/)  
 *Turns one photo of a person or pet into a 6-second 9:16 dance video.* **Pricing:** Paid (from $4.90 per video, free photo check).
-*Aggregator of Kling, Sora, Veo.* **Pricing:** Freemium (100 free credits).
 
 ---
 
